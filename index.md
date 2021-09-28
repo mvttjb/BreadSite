@@ -1,8 +1,6 @@
 ## The Different Types of Bread
 
-You can use the [editor on GitHub](https://github.com/mvttjb/BreadSite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There are many different types of bread in the world, with many different benefits coming from many different countries. Bread has become a universal item that brings us all together. 
 
 ### Markdown
 
