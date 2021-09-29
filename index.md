@@ -1,4 +1,4 @@
-## The Different Types of Bread
+## The Different Types of Bread Around the World
 
 There are many different types of bread in the world, with many different benefits coming from many different countries. Bread has become a universal item that brings us all together in delicious goodness. 
 
@@ -21,6 +21,10 @@ Another bread with French origins, the Brioche Bread is soft and sweet. Before b
 ![focaccia](https://www.inspiredtaste.net/wp-content/uploads/2016/07/Focaccia-Bread-Recipe-1200.jpg)
 
 This bread comes from Italy, its dough is similar to pizza dough, and it is made as a flat loaf. Olive oil is usually added before baking, and herbs, garlic, and sea salt can be added for an extra flavor. It is great by itself, soup, or sauce, and is a delicious Italian bread all should enjoy. 
+
+### Pita Bread
+
+![pita](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-190621-homemade-pita-0159-landscape-pf-1567692674.jpg)
 
 ### Sources
 
