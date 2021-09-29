@@ -36,4 +36,4 @@ Who wouldn't have a good bagel? A good round bagel with a hole in the center, wi
 
 ### Sources
 
-*[Home Stratosphere - 29 Different Types of Bread](https://homestratosphere.com/types-of-bread/)*
+- *[Home Stratosphere - 29 Different Types of Bread](https://homestratosphere.com/types-of-bread/)*
