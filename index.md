@@ -6,7 +6,7 @@ There are many different types of bread in the world, with many different benefi
 
 #### Baguette Bread
 
-
+![baguette](https://www.kingarthurbaking.com/sites/default/files/recipe_legacy/8-3-large.jpg)
 
 ### Markdown
 
