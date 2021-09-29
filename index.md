@@ -8,6 +8,16 @@ There are many different types of bread in the world, with many different benefi
 
 ![baguette](https://www.kingarthurbaking.com/sites/default/files/recipe_legacy/8-3-large.jpg)
 
+Baguette Bread is one of the most commonly known breads in the world, its is a type of yeast bread that has its origins in France. It has become popular all around the world for its deliciousness and French origins. 
+
+#### Brioche Bread
+
+![brioche](https://hips.hearstapps.com/hmg-prod/images/delish-190829-brioche-horizontal-0230-landscape-pf-1567541194.gif)
+
+##### Sources
+
+*[Home Stratosphere - 29 Different Types of Bread](www.homestratosphere.com/types-of-bread/)*
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
