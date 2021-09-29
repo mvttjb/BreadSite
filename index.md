@@ -2,6 +2,10 @@
 
 There are many different types of bread in the world, with many different benefits coming from many different countries. Bread has become a universal item that brings us all together. 
 
+*Here are some of the most common types of bread found around the world!*
+
+#### Baguette Bread
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
