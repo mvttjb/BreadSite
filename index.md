@@ -26,6 +26,14 @@ This bread comes from Italy, its dough is similar to pizza dough, and it is made
 
 ![pita](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-190621-homemade-pita-0159-landscape-pf-1567692674.jpg)
 
+This bread originates from the Middle East, and is cooked at high temperatures, which allows the liquid to escape the dough. Made with wheat flour, pita bread can be cut into slices and dipped into sauces, or stuffed with different types of meat. 
+
+### Bagels
+
+![bagel](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/20191219-seo-bagel-recipe-delish-ehg-8846-1578412004.jpg)
+
+Who wouldn't have a good bagel? A good round bagel with a hole in the center, with two slices that come together, and comes in many different flavors. Bagels can also have many add-ons, like butter or meat, in order to savor your hunger. 
+
 ### Sources
 
 *[Home Stratosphere - 29 Different Types of Bread](https://homestratosphere.com/types-of-bread/)*
