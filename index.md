@@ -16,6 +16,12 @@ Baguette Bread is one of the most commonly known breads in the world, its is a t
 
 Another bread with French origins, the Brioche Bread is soft and sweet. Before baking, egg is brushed on top of the dough before being put into the oven, and is perfect for making sandwiches or toast. 
 
+### Focaccia Bread
+
+![focaccia](https://www.inspiredtaste.net/wp-content/uploads/2016/07/Focaccia-Bread-Recipe-1200.jpg)
+
+This bread comes from Italy, its dough is similar to pizza dough, and it is made as a flat loaf. Olive oil is usually added before baking, and herbs, garlic, and sea salt can be added for an extra flavor. It is great by itself, soup, or sauce, and is a delicious Italian bread all should enjoy. 
+
 ### Sources
 
 *[Home Stratosphere - 29 Different Types of Bread](https://homestratosphere.com/types-of-bread/)*
