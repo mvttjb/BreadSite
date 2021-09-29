@@ -18,4 +18,4 @@ Another bread with French origins, the Brioche Bread is soft and sweet. Before b
 
 ### Sources
 
-*[Home Stratosphere - 29 Different Types of Bread](www.homestratosphere.com/types-of-bread/)*
+*[Home Stratosphere - 29 Different Types of Bread](https://homestratosphere.com/types-of-bread/)*
