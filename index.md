@@ -1,9 +1,3 @@
-<style> 
-
-  p {color:blue}
-  
-</style>
-
 ## The Different Types of Bread Around the World
 
 There are many different types of bread in the world, with many different benefits coming from many different countries. Bread has become a universal item that brings us all together in delicious goodness.
