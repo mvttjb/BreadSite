@@ -1,4 +1,12 @@
-<head></head>
+<head>
+
+  <style>
+    p {
+      color: blue
+    }
+  </style>
+  
+</head>
 
 ## The Different Types of Bread Around the World
 
